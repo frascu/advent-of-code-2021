@@ -12,8 +12,8 @@ In the following table you can find my submissions.
 |  3  | [Binary Diagnostic](https://adventofcode.com/2021/day/3)    | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day03.java](src/main/java/it/frascu/adventofcode/Day03.java)  |
 |  4  | [Giant Squid](https://adventofcode.com/2021/day/4)          | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day04.java](src/main/java/it/frascu/adventofcode/Day04.java)  |
 |  5  | [Hydrothermal Venture](https://adventofcode.com/2021/day/5) | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day05.java](src/main/java/it/frascu/adventofcode/Day05.java)  |
-|  6  | [Lanternfish](https://adventofcode.com/2021/day/6)          | :heavy_check_mark: Solved          | :heavy_check_mark: Solved  |  [Day06.java](src/main/java/it/frascu/adventofcode/Day06.java)  |
-|  7  | :hourglass: Waiting...       | :hourglass: Waiting...    | :hourglass: Waiting...     |    |
+|  6  | [Lanternfish](https://adventofcode.com/2021/day/6)          | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day06.java](src/main/java/it/frascu/adventofcode/Day06.java)  |
+|  7  | [The Treachery of Whales](https://adventofcode.com/2021/day/7)          | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day07.java](src/main/java/it/frascu/adventofcode/Day07.java)  |
 |  8  | :hourglass: Waiting...       | :hourglass: Waiting...    | :hourglass: Waiting...     |    |
 |  9  | :hourglass: Waiting...       | :hourglass: Waiting...    | :hourglass: Waiting...     |    |
 | 10  | :hourglass: Waiting...       | :hourglass: Waiting...    | :hourglass: Waiting...     |    |
