@@ -10,11 +10,11 @@ public class Day07 {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(Day07.class.getClassLoader().getResourceAsStream("Day07.txt"))) {
             List<Integer> positions = Arrays.stream(scanner.nextLine().split(",")).map(Integer::valueOf).toList();
-            getMinFuel(positions);
+            calculateMinFuel(positions);
         }
     }
 
-    private static void getMinFuel(List<Integer> positions) {
+    private static void calculateMinFuel(List<Integer> positions) {
         int max = positions.stream().max(Integer::compareTo).orElseThrow();
         int min = positions.stream().min(Integer::compareTo).orElseThrow();
 
