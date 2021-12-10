@@ -16,7 +16,7 @@ In the following table you can find my submissions.
 |  7  | [The Treachery of Whales](https://adventofcode.com/2021/day/7) | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day07.java](src/main/java/it/frascu/adventofcode/Day07.java)  |
 |  8  | [Seven Segment Search](https://adventofcode.com/2021/day/8)    | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day08.java](src/main/java/it/frascu/adventofcode/Day08.java)  |
 |  9  | [Smoke Basin](https://adventofcode.com/2021/day/9)             | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day09.java](src/main/java/it/frascu/adventofcode/Day09.java)  |
-| 10  | :hourglass: Waiting...       | :hourglass: Waiting...    | :hourglass: Waiting...     |    |
+| 10  | [Syntax Scoring](https://adventofcode.com/2021/day/10)             | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day10.java](src/main/java/it/frascu/adventofcode/Day10.java)  |
 | 11  | :hourglass: Waiting...       | :hourglass: Waiting...    | :hourglass: Waiting...     |    |
 | 12  | :hourglass: Waiting...       | :hourglass: Waiting...    | :hourglass: Waiting...     |    |
 | 13  | :hourglass: Waiting...       | :hourglass: Waiting...    | :hourglass: Waiting...     |    |
