@@ -6,7 +6,7 @@ People use them as a speed contest, interview prep, company training, university
 In the following table you can find my submissions.
 
 | Day | Problem  |  Part One |  Part Two |  Solution  |
-| --: |   :-:    |    :-:    |    :-:    |    :-:     |
+| --: |   :--    |    :-:    |    :-:    |    :-:     |
 |  1  | [Sonar Sweep](https://adventofcode.com/2021/day/1)              | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day01.java](src/main/java/it/frascu/adventofcode/Day01.java)  |
 |  2  | [Dive!](https://adventofcode.com/2021/day/2)                    | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day02.java](src/main/java/it/frascu/adventofcode/Day02.java)  |
 |  3  | [Binary Diagnostic](https://adventofcode.com/2021/day/3)        | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day03.java](src/main/java/it/frascu/adventofcode/Day03.java)  |
